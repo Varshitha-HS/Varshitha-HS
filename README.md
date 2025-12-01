@@ -1,110 +1,70 @@
-<h2 align="center" style="font-size:2.2em; font-weight:600;">👋 Hi, I'm <b>Varshitha H S</b></h2>
-<h4 align="center" style="color: #6c757d;">Full Stack Developer | Java Developer | AI & Automation Enthusiast</h4>
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 💡 About Me
-<p style="line-height: 1.7;">
-I'm a passionate <b>Full Stack Developer</b> and <b>Java Developer</b> with hands-on experience in designing and building complete web applications.  
-I love turning ideas into clean, functional, and scalable products — always exploring how <b>AI and automation</b> can improve developer productivity.  
-</p>
-
-- 🎓 Pursuing **B.E. in Information Science and Engineering** at *MVJ College of Engineering* (2022–2026)  
-- 💻 Skilled in both front-end and back-end web technologies, API development, and Java frameworks  
-- 🌱 Exploring Cloud, DevOps, and automation tools for continuous learning  
-- 💬 Open to collaborations on **Java, Spring Boot, Full Stack projects, and AI tool integrations**  
-- 📫 Reach me at: **varshithahs904@gmail.com**  
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 🛠️ Technical Skills
-
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>Java, C, C++, HTML, CSS, JavaScript, SQL</td>
-</tr>
-<tr>
-<td><b>Frameworks & Tools</b></td>
-<td>Spring Boot, JDBC, REST APIs, Git, GitHub, Postman, Eclipse, VS Code</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>MySQL, DBMS</td>
-</tr>
-<tr>
-<td><b>AI & Automation</b></td>
-<td>OpenAI API, n8n, Make, Zapier, Lovable, Lindy, Skywork, Replit AI</td>
-</tr>
-<tr>
-<td><b>Cloud & DevOps Basics</b></td>
-<td>Google Cloud, Deployment, Agile, SDLC</td>
-</tr>
-</table>
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 💼 Experience
-
-**Full Stack Web Development Intern**  
-*Unified Mentor* — *March 2025 – April 2025*  
-<ul style="line-height: 1.6;">
-<li>Worked on complete full-stack solutions focusing on responsive design and robust back-end logic.</li>
-<li>Developed and deployed a <b>Blog Website</b> supporting user authentication and content management.</li>
-<li>Created an <b>Electric Vehicle Recharge Bunk</b> web application for slot booking and real-time availability.</li>
-</ul>
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 🚀 Projects
-
-**1. AI Storytime for Science**  
-Transforming science topics into interactive animated story videos using NLP and web technologies.  
-<br/><br/>
-
-**2. Email Agent Workflow**  
-AI-powered automation using *n8n* — processes chat inputs, generates AI-based email responses, and sends them automatically.  
-👉 [View on LinkedIn](https://www.linkedin.com/in/varshitha-h-s-a25b46263)  
-<br/><br/>
-
-**3. Electric Vehicle Recharge Bunk**  
-Web app for managing EV charging slots with authentication and booking system.  
-👉 [View on GitHub](https://github.com/Varshitha-HS)  
-<br/><br/>
-
-**4. Blog Website**  
-Full-stack platform that allows users to create, edit, and delete blog posts with authentication.  
-👉 [View on GitHub](https://github.com/Varshitha-HS)  
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 🏅 Certifications & Achievements
-<ul style="line-height: 1.6;">
-<li><b>Ethical Hacking</b> – NPTEL (Scored 75%)</li>
-<li><b>Java Training Certification</b> – Spoken Tutorial (Scored 80%)</li>
-<li><b>Introduction to Cybersecurity</b> – Infosys Springboard</li>
-<li><b>Building a Project with the ChatGPT API</b> – LinkedIn Learning</li>
-<li><b>2nd Place</b> – Cybersecurity Hackathon (TechByHeart)</li>
-<li><b>Advanced C++ Certification</b> – Spoken Tutorial (Scored 80%)</li>
-</ul>
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 💬 Extracurriculars
-Hackathons • Coding Challenges • Cybersecurity • Automation • AI Tool Exploration  
-
-<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
-
-### 📫 Connect With Me
-
+<!-- README.md — Humanized Profile for Varshitha H S -->
 <p align="center">
-  <a href="mailto:varshithahs904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/varshitha-h-s-a25b46263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Varshitha-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/></a>
+  <img width="120" src="./assets/avatar.svg" alt="Varshitha H S" style="border-radius:16px; box-shadow: 0 8px 20px rgba(11,18,32,0.6);" />
 </p>
 
-<hr style="border: 1px solid #d3d3d3; margin: 30px 0;"/>
+<h1 align="center">Hi, I’m Varshitha H S 👋</h1>
+<p align="center"><em>Full Stack Developer · Java & SQL · GenAI & Cybersecurity Enthusiast</em></p>
 
-<h4 align="center" style="font-style: italic; color: #6c757d;">✨ "Code. Automate. Innovate." ✨</h4>
+<div align="center">
+  <img src="./assets/badge-java.svg" alt="Java" width="110" />
+  <img src="./assets/badge-fullstack.svg" alt="Full Stack" width="110" />
+  <img src="./assets/badge-ai.svg" alt="GenAI" width="110" />
+  <img src="https://img.shields.io/badge/Available-for--collab-FF8C42?style=flat-square" alt="Open to collaboration" />
+</div>
+
+---
+
+## About me
+I enjoy building thoughtful, reliable web apps and experimenting with AI to make developer life simpler and user experiences better. I’m currently pursuing a B.E. in Information Science & Engineering and love blending backend reliability with clean front-end UX. I prefer clear code, testable components, and small automations that save lots of time. :contentReference[oaicite:6]{index=6}
+
+**Quick summary**
+- 🔹 Strong foundations: **Java**, **OOP**, **JDBC**, **SQL**.  
+- 🔹 Web stack: **HTML / CSS / JavaScript**, **TypeScript**, **Spring Boot**, **REST APIs**.  
+- 🔹 AI & automation: **OpenAI API**, **n8n**, **Make / Zapier**, **Replit AI**.  
+- 🔹 Interests: GenAI experiments, automation, and cybersecurity hackathons. :contentReference[oaicite:7]{index=7}
+
+---
+
+## 📂 Featured projects
+Below are the projects I maintain and the short human-friendly overview. Click the repo name to open the code.
+
+- 🔸 **[Mindful-blog-website](https://github.com/Varshitha-HS/Mindful-blog-website)** — A simple, accessible blog platform focused on mindful living. Includes featured posts, categories and newsletter subscription. (CSS · HTML · JS). :contentReference[oaicite:8]{index=8}  
+  ⇢ Quick use: clone, edit `index.html` or the posts folder, and deploy to any static host.
+
+- 🔸 **[AIStorytimeForScience](https://github.com/Varshitha-HS/AIStorytimeForScience)** — An AI-driven learning tool that turns science concepts into bite-sized, animated story content for learners. Great for NLP + front-end demos. :contentReference[oaicite:9]{index=9}
+
+- 🔸 **[EVChargeSpot](https://github.com/Varshitha-HS/EVChargeSpot)** — A user-facing EV charging finder & booking web app — search, filter, and reserve charging slots; includes owner portal concepts. (TypeScript). :contentReference[oaicite:10]{index=10}
+
+- 🔸 **[Portfolio / Profile (this repo)](https://github.com/Varshitha-HS/Varshitha-HS)** — My developer portfolio: Full Stack Development, Java, GenAI, Automation, Cybersecurity & Projects. Use this repo as my public profile README. :contentReference[oaicite:11]{index=11}
+
+---
+
+## Experience (high level)
+**Full Stack Web Development Intern — Unified Mentor** (Mar 2025 – Apr 2025)  
+Built a blog website with authentication and an EV charging booking system — end-to-end features and deployment. :contentReference[oaicite:12]{index=12}
+
+---
+
+## Certifications & highlights
+- Ethical Hacking — NPTEL (75%)  
+- Java Training — Spoken Tutorial (80%)  
+- Building a Project with the ChatGPT API — LinkedIn Learning  
+- 2nd Place — Cybersecurity Hackathon (TechByHeart)  
+(Full list in resume). :contentReference[oaicite:13]{index=13}
+
+---
+
+## Want to explore more?
+- GitHub: https://github.com/Varshitha-HS  
+- LinkedIn: https://www.linkedin.com/in/varshitha-h-s-a25b46263  
+- Email: varshithahs904@gmail.com
+
+---
+
+### How to use this README
+1. Place `README.md` at the root of your profile repo (`https://github.com/Varshitha-HS/Varshitha-HS`).  
+2. Create an `assets/` folder and add the provided `avatar.svg` + badge SVGs (see `assets` below).  
+3. Replace or link any demo images with screenshots from your repos if you want visual thumbnails.
+
+> If you’d like, I can programmatically create screenshot thumbnails for each repo and add a small repo card section (with star/fork counts + short tech tags). Tell me and I’ll fetch repo READMEs and screenshots and stitch them into repo cards. ✔️
