@@ -1,70 +1,101 @@
-<!-- README.md — Humanized Profile for Varshitha H S -->
+<!-- Dynamic Website-Style GitHub Profile README for Varshitha H S -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF7F00&center=true&vCenter=true&width=600&lines=👋+Hi+I'm+Varshitha+H+S;💻+Full+Stack+%26+Java+Developer;🤖+AI+%26+Automation+Explorer;🚀+Welcome+to+my+GitHub!">
+</h1>
+
+---
+
 <p align="center">
-  <img width="120" src="./assets/avatar.svg" alt="Varshitha H S" style="border-radius:16px; box-shadow: 0 8px 20px rgba(11,18,32,0.6);" />
+  <a href="mailto:varshithahs904@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/varshitha-h-s-a25b46263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Varshitha-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h1 align="center">Hi, I’m Varshitha H S 👋</h1>
-<p align="center"><em>Full Stack Developer · Java & SQL · GenAI & Cybersecurity Enthusiast</em></p>
+---
+
+## 🧠 About Me  
+
+> I’m a passionate **Full Stack & Java Developer** who loves blending solid backend logic with elegant front-end design.  
+> My approach combines **OOP principles**, **REST APIs**, and **AI-assisted tools** to build faster, smarter, and more reliable applications.  
+>  
+> 🌱 *Currently exploring AI + Automation and Cloud Deployment.*  
+
+---
+
+## ⚙️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,spring,git,github,postman,gcp,vscode,eclipse,react&perline=9"/>
+</p>
+
+💡 **Also skilled in:** REST APIs, API Integration, n8n, Zapier, Make, Lovable, Lindy, Skywork, Vercel, Agile & SDLC
+
+---
+
+## 🚀 Featured Projects  
+
+| Project | Description | Tech Used |
+|----------|--------------|-----------|
+| 🧠 **AI Storytime for Science** | Converts science topics into interactive animated stories using NLP and Web Tech. | NLP, HTML, CSS, JS |
+| 📧 **AI Email Agent Workflow** | Smart automation that drafts AI-based email responses and sends them automatically. | n8n, AI Agents, Gmail API |
+| ⚡ **EV Recharge Bunk** | Web app for managing EV charging slots — reservations, authentication, and real-time updates. | Java, Spring Boot, SQL |
+| ✍️ **Full-Stack Blog Website** | Platform for users to create, edit, and delete blog posts. | HTML, CSS, JS, MySQL |
+
+---
+
+## 🏫 Education  
+
+🎓 **MVJ College of Engineering**  
+*Bachelor of Engineering (B.E.) – Information Science and Engineering*  
+📅 2022 – 2026  
+
+---
+
+## 🏆 Certifications & Achievements  
+
+✔️ **2nd Place – Cybersecurity Hackathon** (TechByHeart)  
+✔️ **Ethical Hacking (NPTEL)** – 75%  
+✔️ **Java Training (Spoken Tutorial)** – 80%  
+✔️ **Building with ChatGPT API (LinkedIn Learning)**  
+✔️ **Advanced C++ (Spoken Tutorial)** – 80%  
+
+---
+
+## 🧩 Currently Exploring  
+
+- 🤖 **AI + Automation Workflows**  
+- ☁️ **Cloud App Deployment (GCP)**  
+- 🔐 **Secure Web Development & Cybersecurity**  
+
+---
+
+## 📊 GitHub Insights  
 
 <div align="center">
-  <img src="./assets/badge-java.svg" alt="Java" width="110" />
-  <img src="./assets/badge-fullstack.svg" alt="Full Stack" width="110" />
-  <img src="./assets/badge-ai.svg" alt="GenAI" width="110" />
-  <img src="https://img.shields.io/badge/Available-for--collab-FF8C42?style=flat-square" alt="Open to collaboration" />
+  
+  ![Varshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha-HS&show_icons=true&theme=radical&title_color=FF7F00&icon_color=FF7F00&hide_border=true&bg_color=00000000)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha-HS&layout=compact&theme=radical&hide_border=true&title_color=FF7F00)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Varshitha-HS&theme=radical&hide_border=true&ring=FF7F00&fire=FF7F00)
+
 </div>
 
 ---
 
-## About me
-I enjoy building thoughtful, reliable web apps and experimenting with AI to make developer life simpler and user experiences better. I’m currently pursuing a B.E. in Information Science & Engineering and love blending backend reliability with clean front-end UX. I prefer clear code, testable components, and small automations that save lots of time. :contentReference[oaicite:6]{index=6}
+## 🤝 Let’s Connect  
 
-**Quick summary**
-- 🔹 Strong foundations: **Java**, **OOP**, **JDBC**, **SQL**.  
-- 🔹 Web stack: **HTML / CSS / JavaScript**, **TypeScript**, **Spring Boot**, **REST APIs**.  
-- 🔹 AI & automation: **OpenAI API**, **n8n**, **Make / Zapier**, **Replit AI**.  
-- 🔹 Interests: GenAI experiments, automation, and cybersecurity hackathons. :contentReference[oaicite:7]{index=7}
-
----
-
-## 📂 Featured projects
-Below are the projects I maintain and the short human-friendly overview. Click the repo name to open the code.
-
-- 🔸 **[Mindful-blog-website](https://github.com/Varshitha-HS/Mindful-blog-website)** — A simple, accessible blog platform focused on mindful living. Includes featured posts, categories and newsletter subscription. (CSS · HTML · JS). :contentReference[oaicite:8]{index=8}  
-  ⇢ Quick use: clone, edit `index.html` or the posts folder, and deploy to any static host.
-
-- 🔸 **[AIStorytimeForScience](https://github.com/Varshitha-HS/AIStorytimeForScience)** — An AI-driven learning tool that turns science concepts into bite-sized, animated story content for learners. Great for NLP + front-end demos. :contentReference[oaicite:9]{index=9}
-
-- 🔸 **[EVChargeSpot](https://github.com/Varshitha-HS/EVChargeSpot)** — A user-facing EV charging finder & booking web app — search, filter, and reserve charging slots; includes owner portal concepts. (TypeScript). :contentReference[oaicite:10]{index=10}
-
-- 🔸 **[Portfolio / Profile (this repo)](https://github.com/Varshitha-HS/Varshitha-HS)** — My developer portfolio: Full Stack Development, Java, GenAI, Automation, Cybersecurity & Projects. Use this repo as my public profile README. :contentReference[oaicite:11]{index=11}
+<p align="center">
+  <a href="mailto:varshithahs904@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/varshitha-h-s-a25b46263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Varshitha-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## Experience (high level)
-**Full Stack Web Development Intern — Unified Mentor** (Mar 2025 – Apr 2025)  
-Built a blog website with authentication and an EV charging booking system — end-to-end features and deployment. :contentReference[oaicite:12]{index=12}
+<h3 align="center">✨ "Learning is my favorite automation loop." ✨</h3>
 
----
-
-## Certifications & highlights
-- Ethical Hacking — NPTEL (75%)  
-- Java Training — Spoken Tutorial (80%)  
-- Building a Project with the ChatGPT API — LinkedIn Learning  
-- 2nd Place — Cybersecurity Hackathon (TechByHeart)  
-(Full list in resume). :contentReference[oaicite:13]{index=13}
-
----
-
-## Want to explore more?
-- GitHub: https://github.com/Varshitha-HS  
-- LinkedIn: https://www.linkedin.com/in/varshitha-h-s-a25b46263  
-- Email: varshithahs904@gmail.com
-
----
-
-### How to use this README
-1. Place `README.md` at the root of your profile repo (`https://github.com/Varshitha-HS/Varshitha-HS`).  
-2. Create an `assets/` folder and add the provided `avatar.svg` + badge SVGs (see `assets` below).  
-3. Replace or link any demo images with screenshots from your repos if you want visual thumbnails.
-
-> If you’d like, I can programmatically create screenshot thumbnails for each repo and add a small repo card section (with star/fork counts + short tech tags). Tell me and I’ll fetch repo READMEs and screenshots and stitch them into repo cards. ✔️
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=100&section=footer"/>
+</p>
