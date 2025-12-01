@@ -1,94 +1,110 @@
-<h2 align="center">Hi there 👋, I'm <b>Varshitha H S</b></h2>
-<h4 align="center">Full Stack Developer | Java Developer | AI & Automation Enthusiast</h4>
+<h2 align="center" style="font-size:2.2em; font-weight:600;">👋 Hi, I'm <b>Varshitha H S</b></h2>
+<h4 align="center" style="color: #6c757d;">Full Stack Developer | Java Developer | AI & Automation Enthusiast</h4>
 
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 💡 About Me
-I'm a passionate **Full Stack Developer** and **Java Developer** with hands-on experience in building end-to-end web applications.  
-I enjoy transforming ideas into functional, efficient, and user-friendly digital products.  
-I’m constantly exploring how **AI and automation** can make software development faster and smarter.  
+<p style="line-height: 1.7;">
+I'm a passionate <b>Full Stack Developer</b> and <b>Java Developer</b> with hands-on experience in designing and building complete web applications.  
+I love turning ideas into clean, functional, and scalable products — always exploring how <b>AI and automation</b> can improve developer productivity.  
+</p>
 
-- 🎓 Currently pursuing **B.E. in Information Science and Engineering** at *MVJ College of Engineering* (2022–2026)  
-- 💻 Skilled in front-end and back-end technologies, API integration, and Java-based systems  
-- 🌱 Continuously learning Cloud, DevOps, and advanced automation tools  
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Full Stack Development, or AI Tool Integration**  
-- 📫 Reach me at **varshithahs904@gmail.com**  
+- 🎓 Pursuing **B.E. in Information Science and Engineering** at *MVJ College of Engineering* (2022–2026)  
+- 💻 Skilled in both front-end and back-end web technologies, API development, and Java frameworks  
+- 🌱 Exploring Cloud, DevOps, and automation tools for continuous learning  
+- 💬 Open to collaborations on **Java, Spring Boot, Full Stack projects, and AI tool integrations**  
+- 📫 Reach me at: **varshithahs904@gmail.com**  
 
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 🛠️ Technical Skills
 
-**Languages:**  
-Java, C, C++, HTML, CSS, JavaScript, SQL  
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Java, C, C++, HTML, CSS, JavaScript, SQL</td>
+</tr>
+<tr>
+<td><b>Frameworks & Tools</b></td>
+<td>Spring Boot, JDBC, REST APIs, Git, GitHub, Postman, Eclipse, VS Code</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>MySQL, DBMS</td>
+</tr>
+<tr>
+<td><b>AI & Automation</b></td>
+<td>OpenAI API, n8n, Make, Zapier, Lovable, Lindy, Skywork, Replit AI</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps Basics</b></td>
+<td>Google Cloud, Deployment, Agile, SDLC</td>
+</tr>
+</table>
 
-**Frameworks & Tools:**  
-Spring Boot, JDBC, REST APIs, Git, GitHub, Postman, Eclipse, Visual Studio Code  
-
-**Databases:**  
-MySQL, DBMS  
-
-**AI & Automation Tools:**  
-OpenAI API, n8n, Make, Zapier, Lovable, Lindy, Skywork, Replit AI  
-
-**Cloud & DevOps Fundamentals:**  
-Google Cloud, Deployment basics, Agile, SDLC  
-
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 💼 Experience
 
 **Full Stack Web Development Intern**  
 *Unified Mentor* — *March 2025 – April 2025*  
-- Developed full-stack web applications with both front-end and back-end integration.  
-- Built and deployed a **blog website** with user authentication and content management.  
-- Created an **Electric Vehicle Recharge Bunk** application for slot booking and real-time updates.  
+<ul style="line-height: 1.6;">
+<li>Worked on complete full-stack solutions focusing on responsive design and robust back-end logic.</li>
+<li>Developed and deployed a <b>Blog Website</b> supporting user authentication and content management.</li>
+<li>Created an <b>Electric Vehicle Recharge Bunk</b> web application for slot booking and real-time availability.</li>
+</ul>
 
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 🚀 Projects
 
 **1. AI Storytime for Science**  
-An AI system that converts science topics into interactive, animated story videos.  
-Uses NLP and web technologies to create engaging learning experiences.
+Transforming science topics into interactive animated story videos using NLP and web technologies.  
+<br/><br/>
 
 **2. Email Agent Workflow**  
-A smart **AI-powered email automation system** using *n8n* that processes chat inputs, generates responses, and sends emails automatically.  
-[View on LinkedIn](https://www.linkedin.com/in/varshitha-h-s-a25b46263)
+AI-powered automation using *n8n* — processes chat inputs, generates AI-based email responses, and sends them automatically.  
+👉 [View on LinkedIn](https://www.linkedin.com/in/varshitha-h-s-a25b46263)  
+<br/><br/>
 
 **3. Electric Vehicle Recharge Bunk**  
-A full-stack web application to manage EV charging slots, with user authentication and slot reservations.  
-[View on GitHub](https://github.com/Varshitha-HS)
+Web app for managing EV charging slots with authentication and booking system.  
+👉 [View on GitHub](https://github.com/Varshitha-HS)  
+<br/><br/>
 
 **4. Blog Website**  
-A full-stack blog platform that allows users to create, edit, and delete blog posts.  
-[View on GitHub](https://github.com/Varshitha-HS)
+Full-stack platform that allows users to create, edit, and delete blog posts with authentication.  
+👉 [View on GitHub](https://github.com/Varshitha-HS)  
 
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 🏅 Certifications & Achievements
+<ul style="line-height: 1.6;">
+<li><b>Ethical Hacking</b> – NPTEL (Scored 75%)</li>
+<li><b>Java Training Certification</b> – Spoken Tutorial (Scored 80%)</li>
+<li><b>Introduction to Cybersecurity</b> – Infosys Springboard</li>
+<li><b>Building a Project with the ChatGPT API</b> – LinkedIn Learning</li>
+<li><b>2nd Place</b> – Cybersecurity Hackathon (TechByHeart)</li>
+<li><b>Advanced C++ Certification</b> – Spoken Tutorial (Scored 80%)</li>
+</ul>
 
-- **Ethical Hacking** – NPTEL (Scored 75%)  
-- **Java Training Certification** – Spoken Tutorial (Scored 80%)  
-- **Introduction to Cybersecurity** – Infosys Springboard  
-- **Building a Project with the ChatGPT API** – LinkedIn Learning  
-- **2nd Place** in *Cybersecurity Hackathon – TechByHeart*  
-- **Advanced C++ Certification** – Spoken Tutorial (Scored 80%)
-
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 💬 Extracurriculars
 Hackathons • Coding Challenges • Cybersecurity • Automation • AI Tool Exploration  
 
----
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:varshithahs904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/varshitha-h-s-a25b46263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Varshitha-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:varshithahs904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varshitha-h-s-a25b46263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Varshitha-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
----
+<hr style="border: 1px solid #d3d3d3; margin: 30px 0;"/>
 
-<h4 align="center">✨ “Code. Automate. Innovate.” ✨</h4>
+<h4 align="center" style="font-style: italic; color: #6c757d;">✨ "Code. Automate. Innovate." ✨</h4>
