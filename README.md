@@ -1,5 +1,5 @@
 <h2 align="center" style="font-size:2.2em; font-weight:600;">👋 Hi, I'm <b>Varshitha H S</b></h2>
-<h4 align="center" style="color: #6c757d;">Full Stack Developer | Java Developer | AI & Automation Enthusiast</h4>
+<h4 align="center" style="color: #6c757d;">Full Stack Developer | Java Developer | Cybersecurity | AI & Automation Enthusiast </h4>
 
 <hr style="border: 1px solid #d3d3d3; margin: 20px 0;"/>
 
